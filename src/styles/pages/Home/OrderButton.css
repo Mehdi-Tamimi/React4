@@ -1,0 +1,11 @@
+.OrderButton {
+    display: inline;
+    padding: 16px 16px;
+    margin: 16px;
+    border: none;
+    background-color: #001C30;
+    color: #FFFFFF;
+    width: 160px;
+    border-radius: 8px;
+    font-size: 1rem;
+}

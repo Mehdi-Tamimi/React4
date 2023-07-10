@@ -1,0 +1,16 @@
+.Contact {
+    display: flex;
+    
+}
+.ContactUsBG {
+    width: 50%;
+    height: 100vh;
+}
+.Contact__Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    padding: 40px 0;
+    height: 100vh;
+}
